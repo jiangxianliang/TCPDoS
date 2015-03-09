@@ -9,3 +9,5 @@ TCPDoS
 2. Clone the git repo. `git clone https://github.com/wenjoseph/TCPDoS.git`.
 3. Run `sudo ./run.sh` in directory `TCPDoS`. It will take around 1 hour.
 4. Run `python -m SimpleHTTPServer &` to open a HTTP server. The result is in `http://host:8000/last/result.html`.
+
+5.Modified for test Github
